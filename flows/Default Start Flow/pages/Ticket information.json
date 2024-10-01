@@ -77,7 +77,7 @@
   "entryFulfillment": {
     "messages": [ {
       "text": {
-        "text": [ "Diferente saludo" ]
+        "text": [ "Saludo Nuevo" ]
       },
       "languageCode": "en"
     } ],
